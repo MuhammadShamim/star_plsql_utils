@@ -4,7 +4,7 @@ Various plsql procedures and functions
 
 # Setup
 ```sql
-SQL > @script.sql
+SQL > @star_plsql_utils.sql
 ```
 
 # Functions
