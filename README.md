@@ -3,8 +3,8 @@
 Various plsql procedures and functions
 
 # Setup
-```shell
-install star_plsql_utils.sql
+```oraclesqlplus
+SQL > @script.sql
 ```
 
 # Functions
