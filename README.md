@@ -8,4 +8,5 @@ install star_plsql_utils.sql
 ```
 
 ## Todo
-- [ ] Initial setup
+- [*] Initial setup
+- [ ] setup readme
