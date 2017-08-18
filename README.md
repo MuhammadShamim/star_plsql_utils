@@ -3,7 +3,7 @@
 Various plsql procedures and functions
 
 # Setup
-```oraclesqlplus
+```sql
 SQL > @script.sql
 ```
 
